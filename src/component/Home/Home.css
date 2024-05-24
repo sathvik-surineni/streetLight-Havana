@@ -1,0 +1,20 @@
+.BannerImg {
+    width: 100vw;
+    height: 100vh;
+}
+.bannerHeading h1{ 
+padding: 1rem;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+.bannerHeading p{
+    padding-left:1rem;
+    padding-right:1rem;
+    font-weight:500;
+}
+.imageQuote{
+    padding:15rem;
+    position:absolute;
+    top:200px;
+    color: azure;
+}

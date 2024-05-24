@@ -1,0 +1,39 @@
+
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust height as needed */
+  }
+  
+  /* Style the table */
+  .table-container {
+    margin-top: 20px; /* Add margin for spacing */
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 75%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    font-weight:600;
+  }
+  
+  th, td {
+    border: 1px solid #111010;
+    text-align: left;
+    padding: 8px; /* Add padding for spacing */
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-family:'Roboto';
+    font-size: large;
+  }
+
+  button:hover {
+    transform: scale(1.5);
+    transition: all 0.4s ease-in-out;
+  }

@@ -1,0 +1,14 @@
+.Togglebutton{
+    font-size: xx-large;
+    border-color: rgb(10, 231, 43);
+}
+.navItems{
+    text-align: center;
+}
+.navItems a{
+    text-decoration: none;
+    padding:0.5rem;
+    color: black;
+    font-size: larger;
+    font-family: 'Roboto';
+}
